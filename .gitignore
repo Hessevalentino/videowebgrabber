@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Logs
+*.log
+downloader.log
+logs/
+
+# Downloads (preserve structure but ignore content)
+downloads/*.mp4
+downloads/*.mkv
+downloads/*.avi
+downloads/*.webm
+downloads/*.mov
+downloads/*.flv
+downloads/*.wmv
+downloads/*.m4v
+downloads/*.3gp
+downloads/*.m4a
+downloads/*.mp3
+downloads/*.wav
+downloads/*.flac
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# ZEN MCP Server (external project)
+zen-mcp-server/
+
+# Development documentation (optional)
+# code-audit-report.md
+# prakticky-audit.md
+# komponenty.md
